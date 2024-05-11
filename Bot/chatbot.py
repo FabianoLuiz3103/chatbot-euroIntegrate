@@ -300,7 +300,7 @@ documents = [DOCUMENTO1, DOCUMENTO2, DOCUMENTO3, DOCUMENTO4,
              DOCUMENTO5, DOCUMENTO6, DOCUMENTO7, DOCUMENTO8,
              DOCUMENTO9, DOCUMENTO10]
 
-API_KEY = "AIzaSyBL39tXxGfuoERaHJgOLJPqVFqXGAcssyg"
+API_KEY = ""
 ai.configure(api_key=API_KEY)
 
 model = "models/embedding-001"
